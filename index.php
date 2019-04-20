@@ -93,9 +93,7 @@ $result = $blobClient->listBlobs($containerName, $listBlobsOptions);
 			</tbody>
 		</table>
 	</div>
-
-
-	<script type="text/javascript">
+		<script type="text/javascript">
 	    function processImage() {
 	        // **********************************************
 	        // *** Update or verify the following values. ***
